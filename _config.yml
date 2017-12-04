@@ -1,5 +1,6 @@
-title: COCT Student Start Page
-#description: Cayman is a clean, responsive theme for GitHub Pages.
+title: COCT Student Portal
+description: Welcome to the COCT Student Portal. Access many common tools and resources below.
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
+url: https://coctstuportal.github.io/
