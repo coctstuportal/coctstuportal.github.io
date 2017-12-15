@@ -35,7 +35,6 @@ var items = [
 	new app("Student Login", "https://www.typing.com/student/login/", "https://s3-ap-southeast-2.amazonaws.com/digistorm-websites/ddcs-au-qld-140-website/content/portal-icons/typing.com.png"),
 	new app("Parent Interviews", "https://www.schoolinterviews.com.au/", "https://s3-ap-southeast-2.amazonaws.com/digistorm-websites/ddcs-au-qld-140-website/content/portal-icons/interviews.png"),
 	new app("Tuckshop", "https://www.ouronlinecanteen.com.au/", "https://s3-ap-southeast-2.amazonaws.com/digistorm-websites/ddcs-au-qld-140-website/content/portal-icons/quickcliq.png"),
-	new app("ICT Handbook", "https://s3-ap-southeast-2.amazonaws.com/digistorm-websites/ddcs-au-qld-140-website/documents/Student-Parent-Handbook-ICT-Terms-Conditions-2017.pdf", "https://s3-ap-southeast-2.amazonaws.com/digistorm-websites/ddcs-au-qld-140-website/content/portal-icons/notebook.png"),
 
 
 ];
