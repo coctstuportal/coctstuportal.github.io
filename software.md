@@ -31,7 +31,8 @@ Steps to install:
 	
 # [General](#general)
 ## Google Chrome
-![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
+![](https://raw.githubusercontent.com/coctstuportal/coctstuportal.github.io/master/img/chrome.png)
+<br>
 Web browser by Google | Download: <a target="_blank" href="https://www.google.com/chrome/">Windows 10 or macOS</a>
 
 ## Acrobat Reader DC
