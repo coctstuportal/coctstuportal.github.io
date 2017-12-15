@@ -4,6 +4,8 @@ layout: default
 
 <style> .footer-t, .banner-wrapper { display: none; } .news-wrapper:hover img { transform: translate(0%, 0%) scale(0.8); } .news-wrapper .img-holder { text-align: center; height: 100px; padding-top: 5px; } .img-holder img { height: 100%; } .caption { text-align: center; color: black; max-height: 22px; } .news-wrapper { border: 2px solid #132c6c; background-color: #f7f7f8; border-radius: 10px; padding-bottom: 15px; } .banner { min-height: 50px; background-image: 0; }</style>
 <div id="root--"></div>
+
+<div>
 <script type="text/javascript">
 function app(text, url, image) { this.text = text; this.url = url; this.image = image; }
 function addItem(item, index) {
@@ -40,9 +42,11 @@ var items = [
 ];
 items.forEach(addItem);
 </script>
-<p>
-<br>
-</p>
+</div>
+
+
+
+<div>
 <h2>Verse of the day</h2>
 <script src="https://static6-a.akamaihd.net/votd/votd.write.callback.js"></script>
 <script src="https://www.biblegateway.com/votd/get/?format=json&version=NIV&callback=BG.votdWriteCallback"></script>
@@ -51,3 +55,4 @@ items.forEach(addItem);
 <iframe framespacing="0" frameborder="no" src="https://www.biblegateway.com/votd/get/?format=html&version=NIV">View Verse of the Day</iframe> 
 </noscript>
 <br>
+</div>
