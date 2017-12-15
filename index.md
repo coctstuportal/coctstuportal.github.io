@@ -41,6 +41,7 @@ var items = [
 items.forEach(addItem);
 </script>
 
+<br>
 
 <h2>Verse of the day</h2>
 <script src="https://static6-a.akamaihd.net/votd/votd.write.callback.js"></script>

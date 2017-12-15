@@ -4,7 +4,7 @@ layout: default
 
 _Please see IT support staff in the Library at lunchtime if you require any assistance with installing software. Alternatively, email your support requests to itcrowdportal@coct.qld.edu.au._
 
-[General](#general) | [IPT/Technology](#ipt-technology) | [Image/video editing](#img-vid-edit) | [Music](#music)
+[General](#general) | [IPT/Technology](#ipt) | [Image/video editing](#img) | [Music](#music)
 
 # [](#o365)Microsoft Office 365
 Steps to install:
@@ -42,7 +42,7 @@ Media player capable of playing most media formats | Download: <a target="_blank
 ## Audacity
 Software for recording and editing audio | Download: <a target="_blank" href="https://www.fosshub.com/Audacity.html/audacity-win-2.2.0.exe">Windows 10</a> / <a target="_blank" href="https://www.fosshub.com/Audacity.html/audacity-macos-2.2.0.dmg">macOS</a>
 
-# [](#ipt-technology)IPT/Technology
+# [](#ipt)IPT/Technology
 
 ## Notepad++
 A light-weight yet powerful text-editor | Download: <a target="_blank" href="https://notepad-plus-plus.org/download">Windows 10</a>
@@ -65,7 +65,7 @@ Visual Basic Express (??)
 
 
 
-# [](#img-vid-edit)Image/video editing
+# [](#img)Image/video editing
 
 ## Blender
 Free and open source software offering rendering, modelling, animation, game building and more | Download: <a target="_blank" href="https://www.blender.org/download/">Windows 10, macOS or Linux</a>
