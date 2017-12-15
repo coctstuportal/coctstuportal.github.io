@@ -2,6 +2,23 @@
 ---
 
 
-$section-headings-color: #0053a0;
+
 
 @import 'jekyll-theme-cayman';
+$section-headings-color: #0053a0;
+.main-content {
+  max-width: 96rem;
+}
+
+.col-sm-3 {
+  position: relative;
+  min-height: 1px;
+  padding: 13px; 
+ }
+
+@media (min-width: 768px) {
+  .col-sm-3 {
+    width: 25%;
+    float: left; 
+  } 
+}
