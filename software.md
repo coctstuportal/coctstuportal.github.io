@@ -97,7 +97,7 @@ Free and open source software offering rendering, modelling, animation, game bui
 ## Paint.NET
 ![](https://raw.githubusercontent.com/coctstuportal/coctstuportal.github.io/master/img/paintnet.jpg)
 <br>
-Powerful and light-weight image editor | Download: <a target="_blank" href="https://drive.google.com/uc?id=150jiZgelw360ObHHUGAElKCjMycbwg3R&export=download">Windows 10</a>
+Powerful and light-weight image editor | Download: <a target="_blank" href="https://drive.google.com/uc?id=15xq7OHj--6OoQ_qdddBLv9elIAEzbXxd&export=download">Windows 10</a>
 
 ## GIMP
 ![](https://raw.githubusercontent.com/coctstuportal/coctstuportal.github.io/master/img/gimp.jpg)
