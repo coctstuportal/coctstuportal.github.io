@@ -29,7 +29,7 @@ Steps to install:
 
 	
 	
-# [](#general)General
+# [](#general)General test
 ## Google Chrome
 Web browser by Google | Download: <a target="_blank" href="https://www.google.com/chrome/">Windows 10 or macOS</a>
 
@@ -42,7 +42,7 @@ Media player capable of playing most media formats | Download: <a target="_blank
 ## Audacity
 Software for recording and editing audio | Download: <a target="_blank" href="https://www.fosshub.com/Audacity.html/audacity-win-2.2.0.exe">Windows 10</a> / <a target="_blank" href="https://www.fosshub.com/Audacity.html/audacity-macos-2.2.0.dmg">macOS</a>
 
-# [](#ipt)IPT/Technology
+# [](#ipt)IPT and Technology
 
 ## Notepad++
 A light-weight yet powerful text-editor | Download: <a target="_blank" href="https://notepad-plus-plus.org/download">Windows 10</a>
@@ -65,7 +65,7 @@ Visual Basic Express (??)
 
 
 
-# [](#img)Image/video editing
+# [](#img)Image and video editing
 
 ## Blender
 Free and open source software offering rendering, modelling, animation, game building and more | Download: <a target="_blank" href="https://www.blender.org/download/">Windows 10, macOS or Linux</a>

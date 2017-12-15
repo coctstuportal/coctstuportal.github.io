@@ -40,9 +40,9 @@ var items = [
 ];
 items.forEach(addItem);
 </script>
-
+<p>
 <br>
-
+</p>
 <h2>Verse of the day</h2>
 <script src="https://static6-a.akamaihd.net/votd/votd.write.callback.js"></script>
 <script src="https://www.biblegateway.com/votd/get/?format=json&version=NIV&callback=BG.votdWriteCallback"></script>
