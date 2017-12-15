@@ -7,13 +7,17 @@ _Please see IT support staff in the Library at lunchtime if you require any assi
 [General](#general) | [IPT/Technology](#ipt) | [Image/video editing](#img) | [Music](#music)
 
 # [](#o365)Microsoft Office 365
+![](https://raw.githubusercontent.com/coctstuportal/coctstuportal.github.io/master/img/o365.jpg)
+<br>
 Steps to install:
 1.	Navigate to portal.office.com and login with your school email address and password.
-2.	Click Install Office
+2.	Click Install Office apps
 3.	Follow prompts to download and install
 
 	
 # [](adobe-cc)Adobe Creative Cloud
+![](https://raw.githubusercontent.com/coctstuportal/coctstuportal.github.io/master/img/adobecc.jpg)
+<br>
 ## Design and Web
 Available to all students
 Includes:
@@ -46,7 +50,7 @@ Free PDF reader | Download: <a target="_blank" href="https://get.adobe.com/reade
 Media player capable of playing most media formats | Download: <a target="_blank" href="https://drive.google.com/uc?id=1cxW7RPjYcTHcsReRK0TNSUBuCcE0ExXn&export=download">Windows 10</a> / <a target="_blank" href="https://www.videolan.org/vlc/download-macosx.html">macOS</a>
 
 ## Audacity
-![](https://raw.githubusercontent.com/coctstuportal/coctstuportal.github.io/master/img/vlc.jpg)
+![](https://raw.githubusercontent.com/coctstuportal/coctstuportal.github.io/master/img/audacity.jpg)
 <br>
 Software for recording and editing audio | Download: <a target="_blank" href="https://drive.google.com/uc?id=1NCOnk2NRQSfwNV_HHJE6xbviCvp-vctC&export=download">Windows 10</a> / <a target="_blank" href="https://www.fosshub.com/Audacity.html/audacity-macos-2.2.0.dmg">macOS</a>
 
@@ -56,7 +60,7 @@ Software for recording and editing audio | Download: <a target="_blank" href="ht
 Free antivirus software | Download: <a target="_blank" href="https://drive.google.com/uc?id=1KTtdzPqYxfrw4QX3dohH9w-e587QtLXx&export=download">Windows 10</a> / <a target="_blank" href="https://www.avast.com/free-mac-security">macOS</a>
 
 
-# [IPT/Technology](#ipt)
+# [IPT and Technology](#ipt)
 
 ## Notepad++
 ![](https://raw.githubusercontent.com/coctstuportal/coctstuportal.github.io/master/img/notepad++.jpg)
@@ -84,7 +88,7 @@ File archive manager | Download: <a target="_blank" href="https://drive.google.c
 ## Visual Basic Express
 Host Google Drive??
 
-# [Image/video editing](#img)
+# [Image and video editing](#img)
 ## Blender
 ![](https://raw.githubusercontent.com/coctstuportal/coctstuportal.github.io/master/img/blender.jpg)
 <br>
