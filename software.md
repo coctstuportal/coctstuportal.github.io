@@ -4,8 +4,6 @@ layout: default
 
 _Please see IT support staff in the Library at lunchtime if you require any assistance with installing software. Alternatively, email your support requests to itcrowdportal@coct.qld.edu.au._
 
-[General](#general) | [IPT/Technology](#ipt) | [Image/video editing](#img) | [Music](#music)
-
 # [](#o365)Microsoft Office 365
 Steps to install:
 1.	Navigate to portal.office.com and login with your email address and password.
@@ -13,7 +11,7 @@ Steps to install:
 3.	Follow prompts to download and install
 
 	
-# [](adobe-cc)Adobe Creative Cloud
+# [](#adobe-cc)Adobe Creative Cloud
 ## Design and Web
 Available to all students
 Includes:
@@ -30,56 +28,53 @@ Steps to install:
 	
 	
 # [General](#general)
-## Google Chrome
-![](https://raw.githubusercontent.com/coctstuportal/coctstuportal.github.io/master/img/chrome.png)
-<br>
-Web browser by Google | Download: <a target="_blank" href="https://www.google.com/chrome/">Windows 10 or macOS</a>
 
-## Acrobat Reader DC
-Free PDF reader | Download: <a target="_blank" href="https://get.adobe.com/reader/otherversions/">Windows 10 or macOS</a>
+<style> .footer-t, .banner-wrapper { display: none; } .news-wrapper:hover img { transform: translate(0%, 0%) scale(0.8); } .news-wrapper .img-holder { text-align: center; height: 100px; padding-top: 5px; } .img-holder img { height: 100%; } .caption { text-align: center; color: black; max-height: 22px; } .news-wrapper { border: 2px solid #132c6c; background-color: #f7f7f8; border-radius: 10px; padding-bottom: 15px; } .banner { min-height: 50px; background-image: 0; }</style>
+<div id="general"></div>
 
-## VLC Media Player
-Media player capable of playing most media formats | Download: <a target="_blank" href="https://www.videolan.org/vlc/download-windows.html">Windows 10</a> / <a target="_blank" href="https://www.videolan.org/vlc/download-macosx.html">macOS</a>
+<script type="text/javascript">
+function app(text, url, image) { this.text = text; this.url = url; this.image = image; }
+function addItem(item, index) {
+	var element = document.createElement('div');
+	element.innerHTML = '<a target="_blank" href="'+item.url+'">\
+		<article class="col-sm-3">\
+			<div class="thumbnail news-wrapper">\
+				<div class="img-holder">\
+					<img src="'+item.image+'">\
+				</div>\
+				<div class="caption">\
+					'+item.text+'</>\
+		</article>\
+	</a>';
+	document.getElementById("general").appendChild(element);
+}
 
-## Audacity
-Software for recording and editing audio | Download: <a target="_blank" href="https://www.fosshub.com/Audacity.html/audacity-win-2.2.0.exe">Windows 10</a> / <a target="_blank" href="https://www.fosshub.com/Audacity.html/audacity-macos-2.2.0.dmg">macOS</a>
+var items = [
+	new app("Google Chrome", "http://www.google.com.au", "https://s3-ap-southeast-2.amazonaws.com/digistorm-websites/ddcs-au-qld-140-website/content/portal-icons/google.png"),
+	new app("Student Gmail", "https://mail.google.com/a/student.ddcs.qld.edu.au", "https://s3-ap-southeast-2.amazonaws.com/digistorm-websites/ddcs-au-qld-140-website/content/portal-icons/gmail.png"),
+	new app("Office 365", "http://portal.office365.com/", "https://s3-ap-southeast-2.amazonaws.com/digistorm-websites/ddcs-au-qld-140-website/content/portal-icons/o365.png"),
+	new app("PaperCut", "http://papercut.ddcs.qld.edu.au", "https://s3-ap-southeast-2.amazonaws.com/digistorm-websites/ddcs-au-qld-140-website/content/portal-icons/papercut.png"),
+	new app("OnGuard", "http://www.1300acepro.com/OnGuardACEPro2014/content/login.asp?schoolKey=darlingdownscs.qld", "https://s3-ap-southeast-2.amazonaws.com/digistorm-websites/ddcs-au-qld-140-website/content/portal-icons/onguard.png"),
+	new app("Student Login", "http://student.wordflyers.com/login", "https://s3-ap-southeast-2.amazonaws.com/digistorm-websites/ddcs-au-qld-140-website/content/portal-icons/wf.png"),
+	new app("Blocked Site Overrides", "https://lesson.localnetwork.zone/", "https://s3-ap-southeast-2.amazonaws.com/digistorm-websites/ddcs-au-qld-140-website/content/portal-icons/cyberhound2.png"),
+	new app("School Calendar", "https://www.ddcs.qld.edu.au/parent-lounge/calendar", "https://s3-ap-southeast-2.amazonaws.com/digistorm-websites/ddcs-au-qld-140-website/content/portal-icons/calendar.png"),
+	new app("ACER Testing", "https://oars.acer.edu.au/darling-downs-christian-school", "https://s3-ap-southeast-2.amazonaws.com/digistorm-websites/ddcs-au-qld-140-website/content/portal-icons/acer.png"),
+	new app("Student Login", "https://www.typing.com/student/login/", "https://s3-ap-southeast-2.amazonaws.com/digistorm-websites/ddcs-au-qld-140-website/content/portal-icons/typing.com.png"),
+	new app("Parent Interviews", "https://www.schoolinterviews.com.au/", "https://s3-ap-southeast-2.amazonaws.com/digistorm-websites/ddcs-au-qld-140-website/content/portal-icons/interviews.png"),
+	new app("Tuckshop", "https://www.ouronlinecanteen.com.au/", "https://s3-ap-southeast-2.amazonaws.com/digistorm-websites/ddcs-au-qld-140-website/content/portal-icons/quickcliq.png"),
+	new app("ICT Handbook", "https://s3-ap-southeast-2.amazonaws.com/digistorm-websites/ddcs-au-qld-140-website/documents/Student-Parent-Handbook-ICT-Terms-Conditions-2017.pdf", "https://s3-ap-southeast-2.amazonaws.com/digistorm-websites/ddcs-au-qld-140-website/content/portal-icons/notebook.png"),
+
+
+];
+items.forEach(addItem);
+</script>
 
 # [IPT/Technology](#ipt)
-
-## Notepad++
-A light-weight yet powerful text-editor | Download: <a target="_blank" href="https://notepad-plus-plus.org/download">Windows 10</a>
-
-## Atom
-"A hackable text editor" | Download: <a target="_blank" href="https://atom.io/download/windows_x64">Windows 10</a> / <a target="_blank" href="https://github.com/atom/atom/releases/latest">other</a>
-
-## Structoriser
-System diagramming tool | Download: Windows (legacy, host on Google Drive)
-
-## Pencil
-GUI prototyping software | Download: <a target="_blank" href="https://pencil.evolus.vn/Downloads.html">Windows 10, macOS or Linux</a>
-
-## 7-Zip
-File archive manager | Download: <a target="_blank" href="http://www.7-zip.org/download.html">Windows 10</a>
-
-
-IcoFX (use older free version?)
-Visual Basic Express (??)
 
 
 
 # [Image/video editing](#img)
 
-## Blender
-Free and open source software offering rendering, modelling, animation, game building and more | Download: <a target="_blank" href="https://www.blender.org/download/">Windows 10, macOS or Linux</a>
-
-## Paint.NET
-Powerful and light-weight image editor | Download: <a target="_blank" href="https://www.dotpdn.com/downloads/pdn.html">Windows 10</a>
-
-## GIMP
-Powerful and free open source image editor | Download: <a target="_blank" href="https://www.gimp.org/downloads/">Windows 10, macOS or Unix-based</a>
-
-## Handbrake
-Video compression/conversion software | Download: <a target="_blank" href="https://handbrake.fr/downloads.php">Windows 10, macOS or Ubuntu</a>
 
 # [Music](#music)
 
