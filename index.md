@@ -18,7 +18,7 @@ function addItem(item, index) {
 				<div class="caption">\
 					'+item.text+'</>\
 		</article>\
-	</a>';
+	</a>'; 
 	document.getElementById("root--").appendChild(element);
 }
 
